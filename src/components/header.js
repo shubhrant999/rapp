@@ -5,9 +5,7 @@ function Header() {
     <div>
       <header className='App-header'>
         <img src='' className='App-logo' alt='logo' />
-        <p>
-          Edit <code>src/section.tsx</code> and save to reload.
-        </p>
+        <p>This is my header section</p>
         <a className='pp-link' href='https://reactjs.org' target='_blank' rel='noopener noreferrer'>
           Learn React
         </a>
