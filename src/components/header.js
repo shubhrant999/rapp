@@ -5,7 +5,7 @@ function Header() {
     <div>
       <header className='App-header'>
         <img src='' className='App-logo' alt='logo' />
-        <p>This is my header section C</p>
+        <p>This is my header section D</p>
         <a className='pp-link' href='https://reactjs.org' target='_blank' rel='noopener noreferrer'>
           Learn React
         </a>
